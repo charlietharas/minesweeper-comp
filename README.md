@@ -8,4 +8,4 @@ This competition was intended as a short reintroduction to Python coding for sev
 This was an extremely informal competition with no real rules or guidelines: a combination of a good final project and clean, good code would net a win.
 
 ## Notes
-@c_tharas, or Charlie Tharas, or *me* acted as the judge for the competition, additionally writing my own Minesweeper because I thought it could be fun. An early-development, source code, and full build of that project is in the /c_tharas directory.
+@c_tharas, or Charlie Tharas, or *me* acted as the judge for the competition, additionally writing my own Minesweeper because I thought it could be fun. An early-development, source code, and full build of that project is in the /c_tharas_dev directory.
